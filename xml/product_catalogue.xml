@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<xml>
+  <product_catalogue>
+    <name>asdfgh</name>
+    <cost_price>2222</cost_price>
+    <selling_price>2222</selling_price>
+    <description>sdfghjkl,sdfcgvhbjndfvgbhjmklxdcfvgbhnjmkxrdcfvgbjnkml</description>
+  </product_catalogue>
+  <product_catalogue>
+    <name>sdfcgvhbjnkmj998h8h8h</name>
+    <cost_price>2</cost_price>
+    <selling_price>21245782222</selling_price>
+    <description>sdfghjkl,sdfcgvhbjndfvgbhjmklxdcfvgbhnjmkxrdcfvgbjnkml</description>
+  </product_catalogue>
+</xml>

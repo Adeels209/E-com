@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<xml>
+  <product_catalogue>
+    <first_name>Adeel</first_name>
+    <last_name>Shahid</last_name>
+    <order_number>1</order_number>
+    <paid_price>6666</paid_price>
+    <email>ad@ad.com</email>
+  </product_catalogue>
+  <product_catalogue>
+    <first_name>Adeel</first_name>
+    <last_name>Shahid</last_name>
+    <order_number>2</order_number>
+    <paid_price>6666</paid_price>
+    <email>ad@ad.com</email>
+    <product_name>asdfgh</product_name>
+    <selling_price>2222</selling_price>
+    <purchased_quantity>3</purchased_quantity>
+    <payment_method>paid by card</payment_method>
+  </product_catalogue>
+  <product_catalogue>
+    <first_name>Adeel</first_name>
+    <last_name>Shahid</last_name>
+    <order_number>3</order_number>
+    <paid_price>6666</paid_price>
+    <email>user@user.com</email>
+    <product_name>asdfgh</product_name>
+    <selling_price>2222</selling_price>
+    <purchased_quantity>3</purchased_quantity>
+    <payment_method>paid by card</payment_method>
+  </product_catalogue>
+  <product_catalogue>
+    <first_name>Adeel</first_name>
+    <last_name>Shahid</last_name>
+    <order_number>4</order_number>
+    <paid_price>2222</paid_price>
+    <email>user@user.com</email>
+    <product_name>asdfgh</product_name>
+    <selling_price>2222</selling_price>
+    <purchased_quantity>1</purchased_quantity>
+    <payment_method>paid by card</payment_method>
+  </product_catalogue>
+</xml>
